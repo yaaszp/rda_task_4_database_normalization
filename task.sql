@@ -1,5 +1,3 @@
--- Create database and tables
-
 CREATE DATABASE ShopDB;
 USE ShopDB;
 
